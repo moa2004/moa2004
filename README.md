@@ -7,6 +7,8 @@ I'm a passionate and dedicated computer science student with a strong interest i
 - **Deep dive into Data Structures**: Exploring various data structures like arrays, linked lists, stacks, queues, trees (Binary Search Trees, Heaps), hash tables, and graphs.
 - **Mastering Algorithm Analysis**: Understanding time and space complexity (Big O notation), different algorithmic paradigms (Greedy, Dynamic Programming, Divide and Conquer), and their applications.
 - **Problem Solving**: Continuously practicing and solving algorithmic problems to sharpen my problem-solving skills.
+  
+- **Node.js&Flutter**:Learning how to build efficient backend services using Node.js and creating cross-platform mobile applications with Flutter. Focusing on RESTful APIs, database integration, state management, and crafting responsive UI/UX for Android and iOS.
 
 ## My Projects
 
@@ -18,8 +20,8 @@ Here are some of my key projects:
 
 ## Connect with me:
 
-- LinkedIn: [Your LinkedIn Profile URL]
-- Email: [Your Email Address]
+- LinkedIn: [www.linkedin.com/in/moamen-gebril-b3791226b]
+- Email: [moamengebril5@gmail.com]
 
 Feel free to explore my repositories and connect with me! I'm always open to collaborating on interesting projects and learning new things.
 
