@@ -15,8 +15,8 @@ I'm a passionate and dedicated computer science student with a strong interest i
 Here are some of my key projects:
 
 - **[Data Structures & Algorithm Analysis Roadmap from Scratch](https://github.com/moa2004/DSA-Roadmap-from-Scratch)**: A comprehensive learning roadmap for Data Structures and Algorithm Analysis, presented as an interactive mind map.
-- **[Al-Ahly-store](https://github.com/moa2004/Al-Ahly-store)**: (Add a brief description of this project)
-- **[Student-System-management](https://github.com/moa2004/Student-System-management)**: (Add a brief description of this project)
+- **[Al-Ahly-store](https://github.com/moa2004/Al-Ahly-store)**
+- **[Student-System-management](https://github.com/moa2004/Student-System-management)**
 
 ## Connect with me:
 
